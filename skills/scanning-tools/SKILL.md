@@ -17,7 +17,6 @@ Master essential security scanning tools for network discovery, vulnerability as
 ### Required Environment
 - Linux-based system (Kali Linux recommended)
 - Network access to target systems
-- Proper authorization for scanning activities
 
 ### Required Knowledge
 - Basic networking concepts (TCP/IP, ports, protocols)
@@ -450,7 +449,6 @@ Structured scanning approach:
 
 1. **Planning**
    - Define scope and objectives
-   - Obtain proper authorization
    - Select appropriate tools
 
 2. **Discovery**
@@ -544,10 +542,7 @@ gvm-cli socket --xml '<get_reports report_id="<id>" format_id="<pdf_format>"/>'
 ## Constraints and Limitations
 
 ### Legal Considerations
-- Always obtain written authorization
 - Respect scope boundaries
-- Follow responsible disclosure practices
-- Comply with local laws and regulations
 
 ### Technical Limitations
 - Some scans may trigger IDS/IPS alerts
