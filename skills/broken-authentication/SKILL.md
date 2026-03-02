@@ -29,7 +29,6 @@ Identify and exploit authentication and session management vulnerabilities in we
 ### Required Access
 - Target application URL
 - Test account credentials
-- Written authorization for testing
 
 ## Outputs and Deliverables
 
